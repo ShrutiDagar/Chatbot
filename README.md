@@ -1,2 +1,2 @@
 # Chatbot
-REtrieval based Chatbot in Python, using NLTK library.
+Retrieval based Chatbot in Python, using NLTK library.
